@@ -1,0 +1,2 @@
+*.assets filter=lfs diff=lfs merge=lfs -text
+d0112799cb403cb44a9dda6e6be81d7d filter=lfs diff=lfs merge=lfs -text
